@@ -88,6 +88,8 @@ Melde dich mit dem Benutzernamen und Passwort an, die du in `createUser.js` gese
 
 ![006](https://github.com/user-attachments/assets/88c10f35-9e36-4661-b11d-d605ddf8b79b)
 
+<img src="https://github.com/user-attachments/assets/cd36ec40-45ef-41cf-be27-522c718aa8dd" width="100"/>
+
 
 
 
