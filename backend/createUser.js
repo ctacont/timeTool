@@ -8,8 +8,8 @@ async function createUser() {
   await User.create({
     username: 'test',
     password: hash,
-    vorname: 'Hasan',
-    nachname: 'Yüksel'
+    vorname: 'DEIN VORNAME',
+    nachname: 'DEIN NACHNAME'
   });
   console.log('User erstellt!');
   process.exit();
