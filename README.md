@@ -6,7 +6,7 @@
 - [MongoDB](https://www.mongodb.com/) installiert und läuft lokal
 
 ## Wichtig
-- **Die Ordner `node_modules` für den Root Ordner und Backend Ordner sind nicht im Repository!**  
+- **Die Ordner `node_modules` für den Root Ordner (Hauptverzeichnis) und Backend Ordner sind nicht im Repository!**  
   Installiere sie immer mit `npm install` im jeweiligen Verzeichnis.
 
 ---
