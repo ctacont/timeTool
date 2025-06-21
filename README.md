@@ -77,20 +77,3 @@ Melde dich mit dem Benutzernamen und Passwort an, die du in `createUser.js` gese
 **Viel Erfolg mit TimeTool!**
 
 
-
-###################################
-zusätzliche info:
-
-### Name ändern in: backend/createUser.js
-<!-- await User.create({
-        username: 'test',
-        password: hash, -->
-        vorname: 'DEIN VORNAME',
-        nachname: 'DEIN NACHNAME'
- <!--}); -->
------------------------------------------------
-### im terminal wechseln in "backend"
-commands ausführen:
-node createUser.js
-node index.js
-#######################################
