@@ -5,6 +5,10 @@
 - [Node.js](https://nodejs.org/) installiert
 - [MongoDB](https://www.mongodb.com/) installiert und läuft lokal
 
+## Wichtig
+- **Die Ordner `node_modules` für den Root Ordner und Backend Ordner sind nicht im Repository!**  
+  Installiere sie immer mit `npm install` im jeweiligen Verzeichnis.
+
 ---
 
 ## 1. Projekt klonen
