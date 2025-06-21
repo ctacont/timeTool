@@ -1,5 +1,5 @@
 # TimeTool – Schnellstart-Anleitung
-## (c) 2025 by Hasan Yüksel
+(c) 2025 by Hasan Yüksel
 
 ## Voraussetzungen
 
