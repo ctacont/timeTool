@@ -1,5 +1,6 @@
-Prjektstruktur und Dateierklärung:
+## Prjektstruktur und Dateierklärung:
 
+```sh
 **Hauptverzeichnis**
 - README.md → Anleitung und Hinweise zur Installation, Einrichtung und Nutzung des Projekts.
 
@@ -10,7 +11,7 @@ Prjektstruktur und Dateierklärung:
 - .gitignore → Listet Dateien/Ordner auf, die nicht ins Git-Repository gehören (z.B. node_modules).
 
 - data.json → (Optional, meist für Testzwecke) Beispielhafte Zeiteinträge im JSON-Format. Wird nicht vom eigentlichen System genutzt, sondern dient als Beispiel oder Export.
-
+```
 
 # TimeTool – Schnellstart-Anleitung
 (c) 2025 by Hasan Yüksel
