@@ -1,6 +1,8 @@
+# TimeTool – Schnellstart-Anleitung
+(c) 2025 by Hasan Yüksel
+
 ## Prjektstruktur und Dateierklärung:
 
-```sh
 **Hauptverzeichnis**
 - README.md → Anleitung und Hinweise zur Installation, Einrichtung und Nutzung des Projekts.
 
@@ -11,10 +13,25 @@
 - .gitignore → Listet Dateien/Ordner auf, die nicht ins Git-Repository gehören (z.B. node_modules).
 
 - data.json → (Optional, meist für Testzwecke) Beispielhafte Zeiteinträge im JSON-Format. Wird nicht vom eigentlichen System genutzt, sondern dient als Beispiel oder Export.
-```
 
-# TimeTool – Schnellstart-Anleitung
-(c) 2025 by Hasan Yüksel
+## 
+**backend/**
+-index.js → Startpunkt für das Backend.
+Startet den GraphQL-Server, verbindet zu MongoDB, enthält das Backend-API.
+
+- createUser.js → Skript, um einen neuen Benutzer in die Datenbank einzufügen (einmalig ausführen, z.B. für Testuser).
+
+- package.json → Enthält die Abhängigkeiten und Startskripte für das Backend (npm install installiert alles Nötige).
+
+**backend/models/**
+- user.js → Definiert das User-Schema für MongoDB (Username, Passwort, Vorname, Nachname).
+
+- TimeEntry.js → Definiert das Schema für Zeiteinträge (Username, Startzeit, Endzeit).
+
+## 
+
+
+
 
 ## Voraussetzungen
 
