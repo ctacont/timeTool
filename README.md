@@ -1,6 +1,7 @@
 Prjektstruktur und Dateierklärung:
-###Hauptverzeichnis
-README.md
+
+**Hauptverzeichnis**
+- README.md
 → Anleitung und Hinweise zur Installation, Einrichtung und Nutzung des Projekts.
 
 index.html
